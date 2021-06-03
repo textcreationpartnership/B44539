@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>York and Albany's welcome to England. or, The loyal subjects joy for his most miraculous deliverance To a new play-house tune, much in request.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B44539</idno><idno type="EEBO-CITATION">690986779</idno>
+  <idno type="VID">211791</idno>
+  <idno type="EEBO-PROQUEST">2240863554</idno>
+  
+            <idno type="OCLC"> 690986779</idno>
+            <idno type="OCLC">ocn 690986779</idno>
+            <idno type="STC">Wing Y48</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B44539)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211791)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2987:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>York and Albany's welcome to England. or, The loyal subjects joy for his most miraculous deliverance To a new play-house tune, much in request.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Iordan, at the Angel in Guiltspur-street,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[168-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">James --  II, --  King of England, 1633-1701 --  Early works to 1800.</term>
+               <term type="topical_term">Ballads, English --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:211791:1"/>
+            <pb facs="tcp:211791:2"/>
+            <head>York and Albany's Wel<g ref="char:EOLhyphen"/>come to <hi>ENGLAND.</hi> OR, The Loyal Subjects Joy for his most Miraculous Deliverance:</head>
+            <opener>To a New Play-House Tune, much in request.</opener>
+            <lg n="1">
+               <head>(1)</head>
+               <l>NOw, now the Duke is safe return'd,</l>
+               <l>in spight of all the <hi>VVhigs,</hi>
+               </l>
+               <l>May they be dam'd don't wish um burnd</l>
+               <l>that slit him cross the Legs:</l>
+               <l>May he be pox'd, and plagu'd, and dam'd</l>
+               <l>that will not drink his Health,</l>
+               <l>And cry God bless the King and Duke,</l>
+               <l>and Damn a <hi>Common-wealth.</hi>
+               </l>
+            </lg>
+            <lg n="2">
+               <head>(2)</head>
+               <l>And that this Health be not prophan'd,</l>
+               <l>come Boys fill us a Bumper,</l>
+               <l>And may his blood for e're be stain'd,</l>
+               <l>that drinks the Health of a Rumper;</l>
+               <l>May Halter here, and Hell hereafter</l>
+               <l>such Vagrants portions be,</l>
+               <l>That leave the King and Duke, to drink</l>
+               <l>the Health of <hi>Shaftsbury.</hi>
+               </l>
+            </lg>
+            <lg n="3">
+               <head>(3)</head>
+               <l>Now some may think I damn too much,</l>
+               <l>but can't assign the why so;</l>
+               <l>For this I say, to answer such,</l>
+               <l>I damn but with Proviso;</l>
+               <l>So may the Vintner too be damn'd,</l>
+               <l>if he han't drawn the best;</l>
+               <l>Then here's the loyal parties Health,</l>
+               <l>a Pox of all the rest.</l>
+            </lg>
+            <lg n="4">
+               <head>(4)</head>
+               <l>But here I had almost forgot</l>
+               <l>another changeing Glass;</l>
+               <l>The best in <hi>Christendom,</hi> the Health,</l>
+               <l>let no Man hang an Arse:</l>
+               <l>For he that doth not love the Duke,</l>
+               <l>he hardly loves his King;</l>
+               <l>But he that loves his King and Duke,</l>
+               <l>can't love no better thing.</l>
+            </lg>
+            <lg n="5">
+               <head>(5)</head>
+               <l>Then round about come let it go,</l>
+               <l>and joyfully we'l sing;</l>
+               <l>Not fearing any <hi>VVhiggish</hi> force;</l>
+               <l>we'l cry God save the King:</l>
+               <l>
+                  <hi>Rebellion</hi> shall no more inslave,</l>
+               <l>we will defie the Rout;</l>
+               <l>And drink confusion to the Knave</l>
+               <l>that lies upon the Scout.</l>
+            </lg>
+            <lg n="6">
+               <head>(6)</head>
+               <l>Fanaticks all we will defie,</l>
+               <l>Whig-<hi>Parliaments</hi> we hate;</l>
+               <l>We nought can breath but loyalty</l>
+               <l>both unto Church and State.</l>
+               <l>Long live our Gracious King and Queen,</l>
+               <l>and Royal <hi>Albany;</hi>
+               </l>
+               <l>Our joy shall more and more be seen,</l>
+               <l>whilst we abound in joy.</l>
+            </lg>
+            <lg n="7">
+               <head>(7)</head>
+               <l>Then round about let each his Glass</l>
+               <l>unto the brim now fill;</l>
+               <l>To every Loyalist come pass,</l>
+               <l>and we'l be jovial still:</l>
+               <l>Great <hi>Albany</hi> of high renown,</l>
+               <l>a Prince is eke of fame;</l>
+               <l>Whom Lawrels still and Vertues crown,</l>
+               <l>and do his worth proclaim.</l>
+            </lg>
+            <lg n="8">
+               <head>(8)</head>
+               <l>Come round about your Claret fill,</l>
+               <l>to <hi>Bacchus</hi> we will quaff;</l>
+               <l>Though factious <hi>Whigs</hi> they repine still,</l>
+               <l>we'l drink our Wine and laugh,</l>
+               <l>And cry long live the King and Duke,</l>
+               <l>in spight of all their foes;</l>
+               <l>And Heaven the Factious Rout rebuke,</l>
+               <l>that would procure their woes.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>I. Iordan,</hi> at the Angel in <hi>Guiltspur-street.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
